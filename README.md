@@ -1,7 +1,7 @@
 Box Segmentation and Classification
 ====
 
-This program is intended for segmentation of boxes on the image, video and webcam with subsequent classification into classes: open and closed.
+This program is intended for segmentation of boxes on the image, video and webcam with subsequent classification into classes: open and closed, identification anomalies.
 
 The solution is presented as a web service written in django. 
 Linux is the preferred system due to possible problems installing the detectron 2 framework.
